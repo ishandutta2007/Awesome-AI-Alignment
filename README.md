@@ -1,11 +1,27 @@
-# Awesome-AI-Alignment
-## AI Alignment: Evolution, Variants, Types, & Applications
+# 🌟 Awesome-AI-Alignment
+
+<div align="center">
+  <img src="./assets/banner.svg" alt="Awesome AI Alignment Banner" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Alignment"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Alignment?style=flat-square&color=yellow" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Alignment/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Alignment?style=flat-square&color=red" alt="GitHub Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Alignment/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-AI-Alignment?style=flat-square&color=green" alt="GitHub PRs"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Alignment/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Alignment?style=flat-square&color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+---
+
+## 🚀 AI Alignment: Evolution, Variants, Types, & Applications
+
+> [!NOTE]
+> **SEO Metadata:** A curated repository covering artificial intelligence safety, outer alignment, inner alignment, reinforcement learning from human feedback (RLHF), direct preference optimization (DPO), and constitutional AI.
+> 
+> **Keywords:** AI safety, alignment tax, RLHF, outer alignment, inner alignment, DPO, RLAIF, mechanistic interpretability, neural network safety, LLM security, model alignment.
 
 AI Alignment is a core subfield of artificial intelligence research dedicated to ensuring that AI systems act in accordance with human intentions, values, ethical frameworks, and safety boundaries. A major challenge in deep learning is that training a model to optimize a raw mathematical function (such as next-token prediction or an unconstrained reward score) often causes it to discover unintended, deceptive, or harmful pathways to achieve that goal. AI Alignment bridges this gap by deploying data filtering, human feedback loops, mathematical constraints, and safety guardrails to guide an AI system’s internal behavioral distribution toward being helpful, harmless, and honest.
 
 ---
 
-## 1. The Chronological Evolution
+## 📅 1. The Chronological Evolution
 
 The technical approach to aligning artificial intelligence has transitioned from early theoretical rule-sets to heavy feedback fine-tuning, moving toward automated reinforcement learning and inference-time scaling.
 
@@ -24,7 +40,7 @@ flowchart LR
 
 ---
 
-## 2. Core Operational & Methodological Variants
+## ⚙️ 2. Core Operational & Methodological Variants
 
 AI Alignment pipelines operate across different stages of the model lifecycle, utilizing distinct algorithmic strategies to shape behavior.
 
@@ -37,7 +53,7 @@ AI Alignment pipelines operate across different stages of the model lifecycle, u
 
 ---
 
-## 3. The Structural Threat Matrix: Alignment Types
+## 🛡️ 3. The Structural Threat Matrix: Alignment Types
 
 Alignment research is divided into two separate operational tracks based on the timeline and autonomy level of the target artificial intelligence infrastructure.
 
@@ -48,7 +64,7 @@ Alignment research is divided into two separate operational tracks based on the 
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## ⚠️ 4. Production Engineering Challenges & Mitigations
 
 Deploying alignment frameworks inside commercial scales introduces severe capability trade-offs and processing loops.
 
@@ -59,7 +75,7 @@ Deploying alignment frameworks inside commercial scales introduces severe capabi
 
 ---
 
-## 5. Frontier Real-World AI Safety Applications
+## 🌌 5. Frontier Real-World AI Safety Applications
 
 | Safety Application | Implementation & Use Cases | Year First Used | First Used Paper |
 | :--- | :--- | :--- | :--- |
