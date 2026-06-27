@@ -9,8 +9,9 @@ AI Alignment is a core subfield of artificial intelligence research dedicated to
 
 The technical approach to aligning artificial intelligence has transitioned from early theoretical rule-sets to heavy feedback fine-tuning, moving toward automated reinforcement learning and inference-time scaling.
 
+```mermaid
 [Theoretical Rules (Asimov, 1940s)] ----> [Post-Training Feedback (RLHF, 2019-2023)] ----> [Native Self-Correction & RLAIF (2024+)](Rigid Philosophical Axioms)               (Actor-Critic VRAM Bottlenecks)               (Reinforcement Learned Verifier Search Loops)
-
+```
 
 *   **The Theoretical Axiom Era (Pre-Deep Learning, ~1942–2010s)**
     *   *Concept:* Rooted in early philosophy and science fiction (e.g., Isaac Asimov’s "Three Laws of Robotics"). Alignment was conceptualized as hardcoded, logical rule-sets designed to prevent machines from harming humans.
