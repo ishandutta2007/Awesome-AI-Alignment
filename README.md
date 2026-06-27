@@ -10,7 +10,10 @@ AI Alignment is a core subfield of artificial intelligence research dedicated to
 The technical approach to aligning artificial intelligence has transitioned from early theoretical rule-sets to heavy feedback fine-tuning, moving toward automated reinforcement learning and inference-time scaling.
 
 ```mermaid
-[Theoretical Rules (Asimov, 1940s)] ----> [Post-Training Feedback (RLHF, 2019-2023)] ----> [Native Self-Correction & RLAIF (2024+)](Rigid Philosophical Axioms)               (Actor-Critic VRAM Bottlenecks)               (Reinforcement Learned Verifier Search Loops)
+flowchart LR
+    A["Theoretical Rules (Asimov, 1940s)<br/>(Rigid Philosophical Axioms)"]
+    --> B["Post-Training Feedback (RLHF, 2019-2023)<br/>(Actor-Critic VRAM Bottlenecks)"]
+    --> C["Native Self-Correction & RLAIF (2024+)<br/>(Reinforcement-Learned Verifier Search Loops)"]
 ```
 
 *   **The Theoretical Axiom Era (Pre-Deep Learning, ~1942–2010s)**
