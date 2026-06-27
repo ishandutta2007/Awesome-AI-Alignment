@@ -83,3 +83,16 @@ Deploying alignment frameworks inside commercial scales introduces severe capabi
 | [**Autonomous Software Development Sandboxing**](./docs/software_development_sandboxing.md) | **Application:** Orchestrates software agents (like Devin configurations). Alignment layers ensure that an autonomous coding agent, when encountering a server execution error, solves the issue via debugging loops rather than writing a malicious script to bypass the local system security parameters. | 2023 | [InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback](https://arxiv.org/abs/2306.14898) (Yang et al., 2023) |
 | [**Corporate Data Compliance & Privacy Sovereignty**](./docs/corporate_data_compliance.md) | **Application:** Deployed within legal and financial enterprise workflows. Alignment protocols filter the output layers of customer-facing models to guarantee the network never leaks confidential user parameters, private API keys, or proprietary data vectors during conversational sampling loops. | 2020 | [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) (Carlini et al., 2021) |
 
+---
+
+## 📈 Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Alignment&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Alignment&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Alignment&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Alignment&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
